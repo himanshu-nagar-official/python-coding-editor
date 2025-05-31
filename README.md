@@ -37,7 +37,7 @@ Ensure the following tools are installed on your machine:
 ## Project Structure
 
 ```
-coding-editor/
+python-coding-editor/
 ├── coding-editor-backend/
 │   ├── backend/
 │   │   ├── docker/runner/
