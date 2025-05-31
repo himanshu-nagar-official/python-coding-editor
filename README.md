@@ -15,6 +15,22 @@ The **Python Coding Editor** is a full-stack web application that allows users t
 
 ---
 
+## Screenshots
+
+### Screenshot-1
+![Screenshot_1](screenshots/Screenshot_1.png)
+
+### Screenshot-2
+![Screenshot_2](screenshots/Screenshot_2.png)
+
+### Screenshot-3
+![Screenshot_3](screenshots/Screenshot_3.png)
+
+### Screenshot-4
+![Screenshot_4](screenshots/Screenshot_4.png)
+
+---
+
 ## Prerequisites
 
 Ensure the following tools are installed on your machine:
