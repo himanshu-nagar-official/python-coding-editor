@@ -1,0 +1,27 @@
+# Python
+*.py[cod]
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.sqlite3
+.venv/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+build/
+dist/
+
+# OS
+.DS_Store
+
+# Docker
+*.pid
+
+#Run Commands
+run_commands/
