@@ -105,7 +105,7 @@ python-coding-editor/
 
 ```bash
 git clone https://github.com/himanshu-nagar-official/python-coding-editor
-cd coding-editor
+cd python-coding-editor
 ```
 
 ---
