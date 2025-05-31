@@ -1,8 +1,8 @@
-# Online Coding Editor
+# Python Coding Editor
 
 ## Description
 
-The **Online Coding Editor** is a full-stack web application that allows users to write, run, and test Python code directly in the browser. It supports real-time code execution in a secure Docker environment and interactive terminal-like output. This platform is ideal for coding practice, demonstrations, and learning environments where simplicity and usability are key. The system provides an intuitive code editor with Python syntax highlighting and a separate terminal pane for outputs and inputs.
+The **Python Coding Editor** is a full-stack web application that allows users to write, run, and test Python code directly in the browser. It supports real-time code execution in a secure Docker environment and interactive terminal-like output. This platform is ideal for coding practice, demonstrations, and learning environments where simplicity and usability are key. The system provides an intuitive code editor with Python syntax highlighting and a separate terminal pane for outputs and inputs.
 
 ### Features
 
@@ -88,7 +88,7 @@ coding-editor/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/himanshu-nagar-official/coding-editor.git
+git clone https://github.com/himanshu-nagar-official/python-coding-editor
 cd coding-editor
 ```
 
@@ -162,4 +162,4 @@ Access the app at: http://localhost:5173/
 
 ## Conclusion
 
-The **Online Coding Editor** is a modern, web-based code runner built with React, Vite, Django, and Docker. It provides a simple yet powerful experience for users looking to run Python code interactively in the browser. The architecture is clean, modular, and scalable — ideal for learning platforms or live demonstrations.
+The **Python Coding Editor** is a modern, web-based code runner built with React, Vite, Django, and Docker. It provides a simple yet powerful experience for users looking to run Python code interactively in the browser. The architecture is clean, modular, and scalable — ideal for learning platforms or live demonstrations.
